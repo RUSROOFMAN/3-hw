@@ -6,4 +6,4 @@
 
  [*2*] Я учусь в Нетологии на тестировщика
 
-![ФОТО](https://github.com/https://github.com/RUSROOFMAN/3-hw/blob/main/tvQ_E9dlYpc.jpg)
+![ФОТО](https://raw.githubusercontent.com/RUSROOFMAN/3-hw/main/tvQ_E9dlYpc.jpg)
